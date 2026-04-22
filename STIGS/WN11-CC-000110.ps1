@@ -10,7 +10,7 @@
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN11-AU-000500
+    STIG-ID         : WN11-CC-000110
 
 # Blocks the client from printing to internet-based printers over HTTP
 $path = "HKLM:\SOFTWARE\Policies\Microsoft\Windows NT\Printers"
