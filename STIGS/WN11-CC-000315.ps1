@@ -1,6 +1,6 @@
 .SYNOPSIS
-SYNOPSIS
-This PowerShell script ensures that the Windows Installer 'Always install with elevated privileges' policy is disabled, preventing installation packages from automatically receiving elevated system privileges and reducing the risk of privilege escalation attacks.
+    This PowerShell script ensures that the Windows Installer 'Always install with elevated privileges' policy is disabled, 
+    preventing installation packages from automatically receiving elevated system privileges and reducing the risk of privilege escalation attacks.
 
 .NOTES
     Author          : Nicolas Hanna
