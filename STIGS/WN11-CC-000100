@@ -1,0 +1,4 @@
+# Prevents Windows from downloading print drivers over HTTP
+$path = "HKLM:\SOFTWARE\Policies\Microsoft\Windows NT\Printers"
+if (-not (Test-Path $path)) { New-Item -Path $path -Force | Out-Null }
+Set-ItemProperty -Path $path -Name "DisableWebPnPDownload" -Value 1 -Type DWord
