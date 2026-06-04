@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/nicohan3134/Threat-Hunt-Scenario-Tor)**
+- **[Signals-Before-The-Noise-Threat-Hunt-Report)](https://github.com/nicohan3134/Signals-Before-The-Noise-Threat-Hunt-Report)**
 
 <hr/>
 
